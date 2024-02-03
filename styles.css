@@ -30,6 +30,9 @@ nav ul li {
 main {
     padding: 20px;
 }
+.ColorChanging {
+    color:crimson;
+}
 
 footer {
     background-color: #333;
